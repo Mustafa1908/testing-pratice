@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "testing-pratice",
+  "version": "1.0.0",
+  "main": "babel.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mustafa1908/testing-pratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mustafa1908/testing-pratice/issues"
+  },
+  "homepage": "https://github.com/Mustafa1908/testing-pratice#readme",
+  "description": ""
+}
